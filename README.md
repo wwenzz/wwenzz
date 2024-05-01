@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wen Zhao 👩🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Wen 👩🏻‍💻</h1>
 <h3 align="center">A passionate frontend developer based in Stockholm, Sweden 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwenzz&label=Profile%20views&color=0e75b6&style=flat" alt="wwenzz" /> </p>
