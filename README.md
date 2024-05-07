@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwenzz&label=Profile%20views&color=0e75b6&style=flat" alt="wwenzz" /> </p>
 
-<p><img align="center" src="https://www.codewars.com/users/wwenzz/badges/large" alt="codewar badge" /></p>
+<a href="https://www.codewars.com/users/wwenzz" target="_blank" rel="noreferrer"><img align="center" src="https://www.codewars.com/users/wwenzz/badges/large" alt="codewar badge" /></a>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wwenzz" alt="wwenzz" /></a> </p>
  -->
  
